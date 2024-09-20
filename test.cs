@@ -1,0 +1,1 @@
+Console.WriteLine("레전드 테스트 성공");
